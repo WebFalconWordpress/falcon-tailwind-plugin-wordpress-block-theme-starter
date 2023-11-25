@@ -1,0 +1,25 @@
+{
+  "name": "@webfalconwordpress/tailwindcss-falcon-tailwind-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WebFalconWordpress/tailwindcss-falcon-tailwind-plugin.git"
+  },
+  "version": "1.0.0",
+  "description": "Tailwind plugin for Falcon Tailwind Wordpress Block Theme Starter. This is updated version maintened by WebFalcon.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "tailpress",
+    "wordpress"
+  ],
+  "author": "Web Falcon",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5"
+  }
+}
